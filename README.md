@@ -17,7 +17,7 @@
 </div>
 <br>
 
-## Skils
+## Skills
 ### Android
 <div>
   <img src="https://img.shields.io/badge/android-3DDC84?style=flat&logo=android&logoColor=white"> 
