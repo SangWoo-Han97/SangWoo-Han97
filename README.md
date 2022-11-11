@@ -8,7 +8,7 @@
 🚀 **최신기술**에 관심이 많고, 프로젝트에 적용해보며 **내 것**으로 만드려고 노력합니다.
 
 
-📄 학습한 것을 [**Github**](https://github.com/SangWoo-Han97)과 [**기술 블로그**](https://gogigood.tistory.com/)에 기록하고 있습니다.
+📄 학습한 것을 [**기술 블로그**](https://gogigood.tistory.com/)에 기록하고 있습니다.
 
 
 ✨ **아름다운 UI/UX**에 관심이 많습니다.
