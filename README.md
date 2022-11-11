@@ -13,6 +13,19 @@
 
 ✨ **아름다운 UI/UX**에 관심이 많습니다.
 
+🧐 저에 대해 더 자세히 알아보고 싶다면? [**포트폴리오**](https://smiling-titanium-673.notion.site/592a41c317684572aa89317d6b91a9e2)
+
+<br>
+
+<div>
+<img src="https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white"> 
+<img src="https://img.shields.io/badge/kotlin-7f52ff?style=for-the-badge&logo=kotlin&logoColor=white"> 
+<img src="https://img.shields.io/badge/java-ff7800?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/jetpack compose-4285f4?style=for-the-badge&logo=jetpack-compose&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479a1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white">
+</div>
+
 
 <!--
 **SangWoo-Han97/SangWoo-Han97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
