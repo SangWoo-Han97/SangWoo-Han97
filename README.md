@@ -20,28 +20,29 @@
 ## Skills
 ### Android
 <div>
-  <img src="https://img.shields.io/badge/android-3DDC84?style=flat&logo=android&logoColor=white"> 
-  <img src="https://img.shields.io/badge/kotlin-7f52ff?style=flat&logo=kotlin&logoColor=white"> 
-  <img src="https://img.shields.io/badge/java-ff7800?style=flat&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Kotlin-7f52ff?style=flat&logo=kotlin&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Java-ff7800?style=flat&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/RxJava-b7178c?style=flate&logo=ReactiveX&logoColor=white">
-  <img src="https://img.shields.io/badge/jetpack compose-4285f4?style=flat&logo=jetpack-compose&logoColor=white">
+  <img src="https://img.shields.io/badge/Coroutine-7264df?style=flat&logo=coroutine&logoColor=white">
+  <img src="https://img.shields.io/badge/Jetpack Compose-4285f4?style=flat&logo=jetpack-compose&logoColor=white">
 </div>
 
 ### DevOps
 <div>
-  <img src="https://img.shields.io/badge/mysql-4479a1?style=flat&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479a1?style=flat&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=white">
 </div>
 
 ### Collaboration
 <div>
-  <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
-    <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/gitlab-FC6D26?style=flat&logo=gitlab&logoColor=white">
-  <img src="https://img.shields.io/badge/jira-0052CC?style=flat&logo=jira&logoColor=white">
-  <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white">
-  <img src="https://img.shields.io/badge/mattermost-0058CC?style=flat&logo=mattermost&logoColor=white">
-  <img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white">
+  <img src="https://img.shields.io/badge/Mattermost-0058CC?style=flat&logo=mattermost&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white">
 </div>
 
 <!--
